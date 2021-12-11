@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DeograciousAggrey
 - 👀 I’m interested in Blockchain technology and its applications
-- 🌱 I’m currently learning Dapp building and optimization and DeFi
+- 🌱 I’m a Solidity Developer with interests in DeFi and NFTs among other applicatgions of Blockchain
 - 💞️ I’m looking to collaborate on various blockchain applications
 - 📫 How to reach me Email: deograciousaggrey@gmail.com
 
